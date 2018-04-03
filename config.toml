@@ -1,4 +1,4 @@
-baseurl = "https://jgarcida.github.io/blog-site2/"
+baseurl = "https://jgarcida.github.io/blog/."
 publishDir= "docs"
 languageCode = "en-US"
 title = "My New Hugo Site J. Martín G"
