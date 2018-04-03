@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site J. Martín G</title>
-    <link>https://jgarcida.github.io/blog-site2/</link>
+    <link>https://jgarcida.github.io/blog/</link>
     <description>Recent content on My New Hugo Site J. Martín G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 03 Apr 2018 14:23:14 -0500</lastBuildDate>
     
-	<atom:link href="https://jgarcida.github.io/blog-site2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jgarcida.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is Repl Post</title>
-      <link>https://jgarcida.github.io/blog-site2/blog/repl-post/</link>
+      <link>https://jgarcida.github.io/blog/blog/repl-post/</link>
       <pubDate>Tue, 03 Apr 2018 14:23:14 -0500</pubDate>
       
-      <guid>https://jgarcida.github.io/blog-site2/blog/repl-post/</guid>
+      <guid>https://jgarcida.github.io/blog/blog/repl-post/</guid>
       <description>REPL ¿Que es REPL? &amp;ldquo;REPL&amp;rdquo; o Read-Eval-Print-Loop, son funciones primitivas de Lisp, donde:
 Read Se refiere a una función donde acepta la expresion ingresada por el usuario, la parsea en una estructura de datos en memoria. Eval La función eval toma la estructura de datos interna y la evalúa Print La función print toma el resultado obtenido por eval y lo muestra al usuario. ¿Para que sirve? REPL, sirve para practicar y aprender algun lenguaje de programación.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://jgarcida.github.io/blog-site2/blog/my-first-post/</link>
+      <link>https://jgarcida.github.io/blog/blog/my-first-post/</link>
       <pubDate>Mon, 05 Mar 2018 15:56:49 -0600</pubDate>
       
-      <guid>https://jgarcida.github.io/blog-site2/blog/my-first-post/</guid>
+      <guid>https://jgarcida.github.io/blog/blog/my-first-post/</guid>
       <description>Introduction Hola, MI nombre es Martin y este es mi primer post.
 Tratare de explicar que es lo que estoy viviendo y experimentando al escribir este post.
 Llevo un tiempo en el desarrollo de sistemas y en este lapso de tiempo se me olvido el capacitarme constantemente. Un dia me doy cuenta que tecnologicamente hablando me encuentro resagado y mis competencias tecnicas me delatan. Se me olvido que el desarrollar sistemas es como un deporte en el cual tienes que practicar constantemente para mejorar.</description>
